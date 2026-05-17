@@ -1,0 +1,252 @@
+choice0:Afghanistan - AF
+choice1:Albania - AL
+choice2:Algeria - DZ
+choice3:American Samoa - AS
+choice4:Andorra - AD
+choice5:Angola - AO
+choice6:Anguilla - AI
+choice7:Antarctica - AQ
+choice8:Antigua and Barbuda - AG
+choice9:Argentina - AR
+choice10:Armenia - AM
+choice11:Aruba - AW
+choice12:Australia - AU
+choice13:Austria - AT
+choice14:Azerbaijan - AZ
+choice15:Bahamas (The) - BS
+choice16:Bahrain - BH
+choice17:Bangladesh - BD
+choice18:Barbados - BB
+choice19:Belarus - BY
+choice20:Belgium - BE
+choice21:Belize - BZ
+choice22:Benin - BJ
+choice23:Bermuda - BM
+choice24:Bhutan - BT
+choice25:Bolivia (Plurinational State of) - BO
+choice26:"Bonaire - BQ
+choice27:Bosnia and Herzegovina - BA
+choice28:Botswana - BW
+choice29:Bouvet Island - BV
+choice30:Brazil - BR
+choice31:British Indian Ocean Territory (the) - IO
+choice32:Brunei Darussalam - BN
+choice33:Bulgaria - BG
+choice34:Burkina Faso - BF
+choice35:Burundi - BI
+choice36:Cabo Verde - CV
+choice37:Cambodia - KH
+choice38:Cameroon - CM
+choice39:Canada - CA
+choice40:Cayman Islands (the) - KY
+choice41:Central African Republic (the) - CF
+choice42:Chad - TD
+choice43:Chile - CL
+choice44:China - CN
+choice45:Christmas Island - CX
+choice46:Cocos (Keeling) Islands (the) - CC
+choice47:Colombia - CO
+choice48:Comoros (the) - KM
+choice49:Congo (the Democratic Republic of the) - CD
+choice50:Congo (the) - CG
+choice51:Cook Islands (the) - CK
+choice52:Costa Rica - CR
+choice53:Croatia - HR
+choice54:Cuba - CU
+choice55:Curaçao - CW
+choice56:Cyprus - CY
+choice57:Czechia - CZ
+choice58:Côte d'Ivoire - CI
+choice59:Denmark - DK
+choice60:Djibouti - DJ
+choice61:Dominica - DM
+choice62:Dominican Republic (the) - DO
+choice63:Ecuador - EC
+choice64:Egypt - EG
+choice65:El Salvador - SV
+choice66:Equatorial Guinea - GQ
+choice67:Eritrea - ER
+choice68:Estonia - EE
+choice69:Eswatini - SZ
+choice70:Ethiopia - ET
+choice71:Falkland Islands (the) [Malvinas] - FK
+choice72:Faroe Islands (the) - FO
+choice73:Fiji - FJ
+choice74:Finland - FI
+choice75:France - FR
+choice76:French Guiana - GF
+choice77:French Polynesia - PF
+choice78:French Southern Territories (the) - TF
+choice79:Gabon - GA
+choice80:Gambia (the) - GM
+choice81:Georgia - GE
+choice82:Germany - DE
+choice83:Ghana - GH
+choice84:Gibraltar - GI
+choice85:Greece - GR
+choice86:Greenland - GL
+choice87:Grenada - GD
+choice88:Guadeloupe - GP
+choice89:Guam - GU
+choice90:Guatemala - GT
+choice91:Guernsey - GG
+choice92:Guinea - GN
+choice93:Guinea-Bissau - GW
+choice94:Guyana - GY
+choice95:Haiti - HT
+choice96:Heard Island and McDonald Islands - HM
+choice97:Holy See (the) - VA
+choice98:Honduras - HN
+choice99:Hong Kong - HK
+choice100:Hungary - HU
+choice101:Iceland - IS
+choice102:India - IN
+choice103:Indonesia - ID
+choice104:Iran (Islamic Republic of) - IR
+choice105:Iraq - IQ
+choice106:Ireland - IE
+choice107:Isle of Man - IM
+choice108:Israel - IL
+choice109:Italy - IT
+choice110:Jamaica - JM
+choice111:Japan - JP
+choice112:Jersey - JE
+choice113:Jordan - JO
+choice114:Kazakhstan - KZ
+choice115:Kenya - KE
+choice116:Kiribati - KI
+choice117:Korea (the Democratic People's Republic of) - KP
+choice118:Korea (the Republic of) - KR
+choice119:Kuwait - KW
+choice120:Kyrgyzstan - KG
+choice121:Lao People's Democratic Republic (the) - LA
+choice122:Latvia - LV
+choice123:Lebanon - LB
+choice124:Lesotho - LS
+choice125:Liberia - LR
+choice126:Libya - LY
+choice127:Liechtenstein - LI
+choice128:Lithuania - LT
+choice129:Luxembourg - LU
+choice130:Macao - MO
+choice131:Madagascar - MG
+choice132:Malawi - MW
+choice133:Malaysia - MY
+choice134:Maldives - MV
+choice135:Mali - ML
+choice136:Malta - MT
+choice137:Marshall Islands (the) - MH
+choice138:Martinique - MQ
+choice139:Mauritania - MR
+choice140:Mauritius - MU
+choice141:Mayotte - YT
+choice142:Mexico - MX
+choice143:Micronesia (Federated States of) - FM
+choice144:Moldova (the Republic of) - MD
+choice145:Monaco - MC
+choice146:Mongolia - MN
+choice147:Montenegro - ME
+choice148:Montserrat - MS
+choice149:Morocco - MA
+choice150:Mozambique - MZ
+choice151:Myanmar - MM
+choice152:Namibia - NA
+choice153:Nauru - NR
+choice154:Nepal - NP
+choice155:Netherlands (Kingdom of the) - NL
+choice156:New Caledonia - NC
+choice157:New Zealand - NZ
+choice158:Nicaragua - NI
+choice159:Niger (the) - NE
+choice160:Nigeria - NG
+choice161:Niue - NU
+choice162:Norfolk Island - NF
+choice163:North Macedonia - MK
+choice164:Northern Mariana Islands (the) - MP
+choice165:Norway - NO
+choice166:Oman - OM
+choice167:Pakistan - PK
+choice168:Palau - PW
+choice169:"Palestine - PS
+choice170:Panama - PA
+choice171:Papua New Guinea - PG
+choice172:Paraguay - PY
+choice173:Peru - PE
+choice174:Philippines (the) - PH
+choice175:Pitcairn - PN
+choice176:Poland - PL
+choice177:Portugal - PT
+choice178:Puerto Rico - PR
+choice179:Qatar - QA
+choice180:Romania - RO
+choice181:Russian Federation (the) - RU
+choice182:Rwanda - RW
+choice183:Réunion - RE
+choice184:Saint Barthélemy - BL
+choice185:"Saint Helena - SH
+choice186:Saint Kitts and Nevis - KN
+choice187:Saint Lucia - LC
+choice188:Saint Martin (French part) - MF
+choice189:Saint Pierre and Miquelon - PM
+choice190:Saint Vincent and the Grenadines - VC
+choice191:Samoa - WS
+choice192:San Marino - SM
+choice193:Sao Tome and Principe - ST
+choice194:Saudi Arabia - SA
+choice195:Senegal - SN
+choice196:Serbia - RS
+choice197:Seychelles - SC
+choice198:Sierra Leone - SL
+choice199:Singapore - SG
+choice200:Sint Maarten (Dutch part) - SX
+choice201:Slovakia - SK
+choice202:Slovenia - SI
+choice203:Solomon Islands - SB
+choice204:Somalia - SO
+choice205:South Africa - ZA
+choice206:South Georgia and the South Sandwich Islands - GS
+choice207:South Sudan - SS
+choice208:Spain - ES
+choice209:Sri Lanka - LK
+choice210:Sudan (the) - SD
+choice211:Suriname - SR
+choice212:Svalbard and Jan Mayen - SJ
+choice213:Sweden - SE
+choice214:Switzerland - CH
+choice215:Syrian Arab Republic (the) - SY
+choice216:Taiwan (Province of China) - TW
+choice217:Tajikistan - TJ
+choice218:"Tanzania - TZ
+choice219:Thailand - TH
+choice220:Timor-Leste - TL
+choice221:Togo - TG
+choice222:Tokelau - TK
+choice223:Tonga - TO
+choice224:Trinidad and Tobago - TT
+choice225:Tunisia - TN
+choice226:Turkmenistan - TM
+choice227:Turks and Caicos Islands (the) - TC
+choice228:Tuvalu - TV
+choice229:Türkiye - TR
+choice230:Uganda - UG
+choice231:Ukraine - UA
+choice232:United Arab Emirates (the) - AE
+choice233:United Kingdom of Great Britain and Northern Ireland (the) - GB
+choice234:United States Minor Outlying Islands (the) - UM
+choice235:United States of America (the) - US
+choice236:Uruguay - UY
+choice237:Uzbekistan - UZ
+choice238:Vanuatu - VU
+choice239:Venezuela (Bolivarian Republic of) - VE
+choice240:Viet Nam - VN
+choice241:Virgin Islands (British) - VG
+choice242:Virgin Islands (U.S.) - VI
+choice243:Wallis and Futuna - WF
+choice244:Western Sahara* - EH
+choice245:Yemen - YE
+choice246:Zambia - ZM
+choice247:Zimbabwe - ZW
+choice248:Åland Islands - AX
+choice249:Other
+choice250:Mixed
+choice251:Anycast
